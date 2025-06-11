@@ -1,0 +1,18 @@
+.main {
+    color: antiquewhite;
+    height: 100vh;
+    width: 60vw;
+    margin: 0% 20% 0% 20%;
+    font-family: fantasy;
+    display: flex;
+    flex-direction: column;
+}
+
+.about {
+    margin-top: 25vh;
+    color: antiquewhite;
+}
+
+.about-heading {
+    font-size: 3vh;
+}
