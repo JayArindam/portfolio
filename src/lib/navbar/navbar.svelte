@@ -6,6 +6,6 @@
 	<nav>
 		<a href="/">Home</a>
 		<a href="/projects">Projects</a>
-		<a href="#">Awards</a>
+		<a href="/">Awards</a>
 	</nav>
 </div>
